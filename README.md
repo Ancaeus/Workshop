@@ -1,2 +1,2 @@
 # Workshop
-Workshop for idVar/inform
+Workshop for idVar/Inform

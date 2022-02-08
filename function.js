@@ -1,1 +1,1 @@
-function otinanai(){}
+function otinanai(){print('otinanai2');}

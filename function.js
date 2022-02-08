@@ -1,7 +1,7 @@
 function otinanai(){}
 
 function remove(){
-	console.log("removed");
+	console.info("remove");
 }
 
 function update(){
